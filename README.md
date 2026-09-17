@@ -1,5 +1,5 @@
 Hi 👋 My name is Dallas Womack
-[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 ==============================
 
 Backend Engineer | Security Enthusiast
